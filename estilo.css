@@ -1,4 +1,5 @@
  @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
 html, body {
     margin: 0;
     padding: 0;
@@ -11,7 +12,7 @@ body {
     background: linear-gradient(180deg, rgba(225, 228, 239, 0.8) 200px, rgba(225, 228, 239, 0.9) 300px, rgba(225, 228, 239, 1) 400px), url('https://akrocard.com/pt/wp-content/uploads/2015/05/fondo-degradado-azul.jpg');
     background-size: 100% auto;
     background-repeat: no-repeat;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Raleway', sans-serif;
     line-height: 1.4;
 }
 
@@ -27,7 +28,7 @@ a, em, strong {
 }
 
 h1 {
-    font-family: Georgia, serif;
+    font-family: 'Raleway', sans-serif;
     color: #6d2b65;
 }
 
@@ -83,7 +84,7 @@ blockquote {
 blockquote p {
     margin: 0 0 .5rem 0;
     padding: 0;
-    font-family: Times, 'Times New Roman', serif;
+   font-family: 'Open Sans Condensed', sans-serif;
     font-style: italic;
     font-weight: 200;
     font-size: 125%;
@@ -146,7 +147,7 @@ figure figcaption {
 table {
     border-collapse: collapse;
     width: 100%;
-    font-family: 'Lucida Console', Monaco, monospace;
+    font-family: 'Open Sans Condensed', sans-serif;
     font-weight: 300;
     font-size: 90%;
     text-align: center;
